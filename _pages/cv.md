@@ -73,18 +73,18 @@ Teaching
 Service and Leadership
 ======
 * **DigiKey University Ambassador**  
-  * DigiKey Electronics - **November 2024 - Present**  
+  * DigiKey Electronics - November 2024 - Present
   * Represent DigiKey Electronics as a student ambassador, promoting brand awareness and engagement among electrical engineering students and IEEE community members.  
   * Collaborate with DigiKey and EETech teams, gaining insight into corporate outreach, marketing strategy, and professional/technical content creation for the electronics industry.  
 
 * **ECE Ambassador**  
-  * ECE Ambassadors Virginia Tech - **August 2024 - Present**  
+  * ECE Ambassadors Virginia Tech - August 2024 - Present 
   * Represent the ECE department to prospective students and alumni, enhancing departmental visibility and fostering community connections.  
   * Organize outreach events and information sessions, effectively communicating the value of ECE programs and initiatives.  
   * Collaborate with a diverse team to showcase innovative projects, increasing engagement and interest in ECE.
 
 * **IEEE@VT General Officer**  
-  * Institute of Electrical and Electronics Engineers at Virginia Tech - **August 2024 - Present**  
+  * Institute of Electrical and Electronics Engineers at Virginia Tech - August 2024 - Present 
   * Collaborate with industry representatives to organize and host events, enhancing student engagement with professionals in engineering fields.  
   * Plan and execute social events for ECE and CS faculty and students, fostering a vibrant academic community.  
   * Promote innovative ideas from conception to execution, cultivating collaboration and professional growth.
