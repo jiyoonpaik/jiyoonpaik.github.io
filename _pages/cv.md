@@ -19,14 +19,12 @@ Education
 Work Experience
 ======
 * **Undergraduate Researcher - Voltage Inverter Security**  
-  * Virginia Tech Department of Electrical and Computer Engineering, Resilient Renewable Energy Grid Adaption Laboratory (REGAL)  
-  * **June 2024 - Present**  
+  * Virginia Tech Department of Electrical and Computer Engineering, Resilient Renewable Energy Grid Adaption Laboratory (REGAL) , June 2024 - Present  
   * Developed and implemented a physics-informed machine learning algorithm to improve the cybersecurity of inverter-based resources within the power grid.  
   * Fine-tuned machine learning models using established methodologies to optimize performance and accuracy.  
 
 * **Undergraduate Researcher - Machine Learning Security in IoT Networks**  
-  * Hume Center for National Security and Technology, Virginia Tech  
-  * **October 2023 - May 2024**  
+  * Hume Center for National Security and Technology, Virginia Tech, October 2023 - May 2024 
   * Investigated adversarial attacks for machine learning algorithms in IoT systems, focusing on computer vision and adversarial attack types.  
   * Conducted a review of attack algorithms for machine learning algorithms and trained models; evaluated attack performance of existing adversarial attack libraries.  
 
@@ -40,18 +38,18 @@ Skills
 
 Honors and Recognitions
 ======
-* **LifeLens - VTHAX11 1st Place Overall**, Virginia Tech - **September 2023**  
+* **LifeLens - VTHAX11 1st Place Overall**, Virginia Tech - September 2023  
   * Utilized CSS and HTML to create a data visualization of life expectancy factors from a questionnaire.  
   * Gained substantial familiarity with web development, collaborative work on GitHub, and project execution from inception to completion.
 
 Activities
 ======
 * **Student Leader (Residential Advisor)**  
-  * Virginia Tech - **August 2023 - December 2024**  
+  * Virginia Tech - August 2023 - December 2024  
   * Independently planned and executed a diverse portfolio of weekly events, fostering a sense of community, resolving conflicts, and creatively addressing challenges to enhance the residential experience.
 
 * **JUVO Design Team**  
-  * Virginia Tech - **October 2022 - April 2023**  
+  * Virginia Tech - October 2022 - April 2023  
   * Reached out to the disabled community to design an automated pill crushing and dispensing device for individuals in need of assistive devices.
 
 <!-- Publications
